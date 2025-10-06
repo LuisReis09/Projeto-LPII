@@ -1,15 +1,5 @@
 # README - Sistema de Logging Thread-Safe em C++ (Versão Entrega 1)
 
-## Sobre o Projeto (Deprecated, only a live-chat now)
-O meu projeto consistirá de um server sobre programação competitiva. 
-- Os usuários poderão criar problemas, enviando:
-    - Um arquivo .md ou .html da **descrição do problema**.
-    - **Arquivos de entradas** de teste do algoritmo.
-    - **Arquivos de saídas** esperadas, respectivas a cada entrada de teste do algoritmo.
-    - **Tempo limite** para execução do programa feito por quem irá tentar responder.
-    - **Memória limite** para execução do programa feito por quem irá tentar responder.
-- Os usuários poderão responder a problemas em salas virtuais, gerenciadas por *sockets*, nas quais podem responder a desafios devidamente pré-selecionados.
-
 
 ## Diagrama
 ![Diagrama](./assets/diagrama.svg)

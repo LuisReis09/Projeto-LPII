@@ -6,7 +6,7 @@
 #include <arpa/inet.h>
 #include "logging.hpp"
 
-#define PORT 4000
+#define PORT 4001
 
 using namespace std;
 
